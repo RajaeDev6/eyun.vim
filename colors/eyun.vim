@@ -28,9 +28,9 @@ hi IncSearch     guifg=#1b1f1c guibg=#8fd6a0
 hi Comment       guifg=#7d8f85 ctermfg=244
 hi Constant      guifg=#e28c8c ctermfg=174
 hi String        guifg=#c8e6a0 ctermfg=186
-hi Character     guifg=#c8e6a0
+hi Character     guifg=#c8e23e
 hi Number        guifg=#e3b86b ctermfg=179
-hi Boolean       guifg=#e3b86b
+hi Boolean       guifg=#de4f33
 hi Float         guifg=#e3b86b
 
 hi Identifier    guifg=#e7ece9
@@ -39,13 +39,13 @@ hi Function      guifg=#6ccf8e ctermfg=114
 hi Statement     guifg=#8fd6a0 ctermfg=120
 hi Conditional   guifg=#8fd6a0
 hi Repeat        guifg=#8fd6a0
-hi Keyword       guifg=#8fd6a0
+hi Keyword       guifg=#8f093e
 hi Operator      guifg=#c3cbc7 ctermfg=252
 hi Exception     guifg=#e28c8c
 
 hi Type          guifg=#5fb3a2 ctermfg=79
 hi StorageClass  guifg=#5fb3a2
-hi Structure     guifg=#5fb3a2
+hi Structure     guifg=#3f4fg2
 hi Typedef       guifg=#5fb3a2
 
 " Diagnostics
