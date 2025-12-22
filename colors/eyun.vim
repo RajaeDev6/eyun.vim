@@ -45,7 +45,7 @@ hi Exception     guifg=#e28c8c
 
 hi Type          guifg=#5fb3a2 ctermfg=79
 hi StorageClass  guifg=#5fb3a2
-hi Structure     guifg=#3f4fg2
+hi Structure     guifg=#3f4fe2
 hi Typedef       guifg=#5fb3a2
 
 " Diagnostics
